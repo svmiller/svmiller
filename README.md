@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+My name is Steven V. Miller and I'm an associate professor of political science currently in the [Department of Political Science](http://www.clemson.edu/cbbs/departments/political-science/) at [Clemson University](http://www.clemson.edu/). I'm also a [BITSS Catalyst](https://www.bitss.org/people/steven-miller/) with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/). My research and teaching interests focus on the broad intersection of international conflict and political behavior. 
+
+
