@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img src="https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif" alt="I voted" align="right" width="400" style="padding: 0 15px; float: right;"/>
+<img src="https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif" alt="I voted" align="right" width="350" style="padding: 0 15px; float: right;"/>
 
 My name is Steven V. Miller and I'm an associate professor of political science currently in the [Department of Political Science](http://www.clemson.edu/cbbs/departments/political-science/) at [Clemson University](http://www.clemson.edu/). I'm also a [BITSS Catalyst](https://www.bitss.org/people/steven-miller/) with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/). My research and teaching interests focus on the broad intersection of international conflict and political behavior. 
 
