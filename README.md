@@ -27,13 +27,13 @@ My Github interests are varied, but I use Github for the following stuff you may
 
 **R Packages**: I have several R packages that may interest you. 
 
-| *Package* | *CRAN Info* | *Description* |
-|:---------:|:-----------:|:--------------|
-| [`dragracer`](https://github.com/svmiller/dragracer) | [![](https://www.r-pkg.org/badges/version/dragracer?color=green)](https://cran.r-project.org/package=dragracer) [![](http://cranlogs.r-pkg.org/badges/grand-total/dragracer?color=green)](https://cran.r-project.org/package=dragracer) | R package for learning R functions around data from RuPaul's Drag Race |
-| [`peacesciencer`](https://github.com/svmiller/peacesciencer) | | R package for generating/analyzing data for quantitative peace science (an R analog to [EUGene](https://www.tandfonline.com/doi/abs/10.1080/03050620008434965?casa_token=-fany9aop7QAAAAA:AFUqdPivrRDCwrAjIrx0trABUQhNfSuPU1lROzjQqluNSa8Lo5VO17GEOC76zxNczMC8PiSumAn9)) |
-| [`stevedata`](https://github.com/svmiller/stevedata) | [![](https://www.r-pkg.org/badges/version/stevedata?color=green)](https://cran.r-project.org/package=stevedata) [![](http://cranlogs.r-pkg.org/badges/grand-total/stevedata?color=green)](https://cran.r-project.org/package=stevedata) | R package for miscellaneous data sets I've use for in-class instruction |
-| [`stevemisc`](https://github.com/svmiller/stevemisc) | | R package of various helper functions (esp. for mixed models and BTSCS models) |
-| [`stevetemplates`](https://github.com/svmiller/stevetemplates) | [![](https://www.r-pkg.org/badges/version/stevetemplates?color=green)](https://cran.r-project.org/package=stevetemplates) [![](http://cranlogs.r-pkg.org/badges/grand-total/stevetemplates?color=green)](https://cran.r-project.org/package=stevetemplates) | R package for [my suite of R Markdown templates](https://github.com/svmiller/svm-r-markdown-templates) |
+| *Package* | *Description* |
+|:-------:|:----------------|
+| [`dragracer`](https://github.com/svmiller/dragracer) [![](https://www.r-pkg.org/badges/version/dragracer?color=green)](https://cran.r-project.org/package=dragracer) | R package for learning R functions around data from RuPaul's Drag Race |
+| [`peacesciencer`](https://github.com/svmiller/peacesciencer) | R package for generating/analyzing data for quantitative peace science (an R analog to [EUGene](https://www.tandfonline.com/doi/abs/10.1080/03050620008434965)) |
+| [`stevedata`](https://github.com/svmiller/stevedata) [![](https://www.r-pkg.org/badges/version/stevedata?color=green)](https://cran.r-project.org/package=stevedata) | R package for miscellaneous data sets I've use for in-class instruction |
+| [`stevemisc`](https://github.com/svmiller/stevemisc) | R package of various helper functions (esp. for mixed models and BTSCS models) |
+| [`stevetemplates`](https://github.com/svmiller/stevetemplates) [![](https://www.r-pkg.org/badges/version/stevetemplates?color=green)](https://cran.r-project.org/package=stevetemplates) | R package for [my suite of R Markdown templates](https://github.com/svmiller/svm-r-markdown-templates) |
 
 <!-- [`stevemisc`](https://github.com/svmiller/stevemisc) has some various helper functions I use in my research and teaching. [`stevetemplates`](https://github.com/svmiller/stevetemplates) is an R package for my R Markdown templates. I'll be shifting more time and energy from the "raw" template directory to this R package going forward. [`stevedata`](https://github.com/svmiller/stevedata), which is in development, will host all my toy data sets going forward. I also have an R package for my graduate-level methods course ([`post8000r`](https://github.com/svmiller/post8000r)), but I'll be gradually moving the contents of that (all data) into `stevedata`. Finally, I have an R package ([`dragracer`](https://github.com/svmiller/dragracer)) of data pertaining to the hit American TV show RuPaul's Drag Race. -->
 
