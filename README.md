@@ -29,6 +29,7 @@ My Github interests are varied, but I use Github for the following stuff you may
 
 | *Package* | *tl;dr Description* |
 |:-------:|:----------------|
+| [`codename`](https://github.com/svmiller/codename) | Generate unique code names for projects/people [![](https://www.r-pkg.org/badges/version/codename?color=green)](https://cran.r-project.org/package=codename) |
 | [`dragracer`](https://github.com/svmiller/dragracer) | Learn R functions around data from RuPaul's Drag Race [![](https://www.r-pkg.org/badges/version/dragracer?color=green)](https://cran.r-project.org/package=dragracer) |
 | [`peacesciencer`](https://github.com/svmiller/peacesciencer) | Generating data for quantitative peace science (an R analog to [EUGene](https://www.tandfonline.com/doi/abs/10.1080/03050620008434965)) [![](https://www.r-pkg.org/badges/version/peacesciencer?color=green)](https://cran.r-project.org/package=peacesciencer) |
 | [`stevedata`](https://github.com/svmiller/stevedata) | Miscellaneous data sets I've use for in-class instruction or social media [![](https://www.r-pkg.org/badges/version/stevedata?color=green)](https://cran.r-project.org/package=stevedata) |
