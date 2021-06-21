@@ -27,15 +27,15 @@ My Github interests are varied, but I use Github for the following stuff you may
 
 **R Packages**: I have several R packages that may interest you. 
 
-| *Package* | *tl;dr Description* |
-|:-------:|:----------------|
-| [`codename`](https://github.com/svmiller/codename) | Generate unique code names for projects/people [![](https://www.r-pkg.org/badges/version/codename?color=green)](https://cran.r-project.org/package=codename) |
-| [`dragracer`](https://github.com/svmiller/dragracer) | Learn R functions around data from RuPaul's Drag Race [![](https://www.r-pkg.org/badges/version/dragracer?color=green)](https://cran.r-project.org/package=dragracer) |
-| [`peacesciencer`](https://github.com/svmiller/peacesciencer) | Generating data for quantitative peace science (an R analog to [EUGene](https://www.tandfonline.com/doi/abs/10.1080/03050620008434965)) [![](https://www.r-pkg.org/badges/version/peacesciencer?color=green)](https://cran.r-project.org/package=peacesciencer) |
-| [`stevedata`](https://github.com/svmiller/stevedata) | Miscellaneous data sets I've use for in-class instruction or social media [![](https://www.r-pkg.org/badges/version/stevedata?color=green)](https://cran.r-project.org/package=stevedata) |
-| [`stevemisc`](https://github.com/svmiller/stevemisc) | Various helper functions (esp. for mixed models and BTSCS models) [![](https://www.r-pkg.org/badges/version/stevemisc?color=green)](https://cran.r-project.org/package=stevemisc) |
-| [`steveproj`](https://github.com/svmiller/steveproj) | A Make and R Markdown approach to academic project management) [![](https://www.r-pkg.org/badges/version/steveproj?color=green)](https://cran.r-project.org/package=steveproj) |
-| [`stevetemplates`](https://github.com/svmiller/stevetemplates) | [My suite of R Markdown templates](https://github.com/svmiller/svm-r-markdown-templates) [![](https://www.r-pkg.org/badges/version/stevetemplates?color=green)](https://cran.r-project.org/package=stevetemplates) |
+| *Package* | *Downloads* | *tl;dr Description* |
+|:----------|:-----------:|:--------------------|
+| [`{codename}`](http://svmiller.com/codename) |  [![](http://cranlogs.r-pkg.org/badges/grand-total/codename?color=green)](https://cran.r-project.org/package=codename) | generate unique code names for things (comes in various styles, like [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_version_history#Naming_convention) and [Wu-Tang](https://www.mess.be/inickgenwuname.php)) |
+| [`{dragracer}`](https://github.com/svmiller/dragracer) |  [![](http://cranlogs.r-pkg.org/badges/grand-total/dragracer?color=green)](https://cran.r-project.org/package=dragracer) | learn R functions around data from RuPaul's Drag Race |
+| [`{peacesciencer}`](http://svmiller.com/peacesciencer) |  [![](http://cranlogs.r-pkg.org/badges/grand-total/peacesciencer?color=green)](https://cran.r-project.org/package=peacesciencer) | data generation tools for quantitative peace science (an R analog to [EUGene](https://www.tandfonline.com/doi/abs/10.1080/03050620008434965?casa_token=-fany9aop7QAAAAA:AFUqdPivrRDCwrAjIrx0trABUQhNfSuPU1lROzjQqluNSa8Lo5VO17GEOC76zxNczMC8PiSumAn9))  |
+| [`{stevedata}`](http://svmiller.com/stevedata) |  [![](http://cranlogs.r-pkg.org/badges/grand-total/stevedata?color=green)](https://cran.r-project.org/package=stevedata) |   miscellaneous data sets I use for in-class instruction |
+| [`{stevemisc}`](http://svmiller.com/stevemisc) |  [![](http://cranlogs.r-pkg.org/badges/grand-total/stevemisc?color=green)](https://cran.r-project.org/package=stevemisc) |  various helper functions for research and presentation (esp. for mixed models and BTSCS models) |
+| [`{steveproj}`](http://svmiller.com/steveproj) |  | a Make and R Markdown approach to academic project management |
+| [`{stevetemplates}`](http://svmiller.com/stevetemplates) |  [![](http://cranlogs.r-pkg.org/badges/grand-total/stevetemplates?color=green)](https://cran.r-project.org/package=stevetemplates) |  write R Markdown documents with [my suite of R Markdown templates](https://github.com/svmiller/svm-r-markdown-templates) |
 
 <!-- [`stevemisc`](https://github.com/svmiller/stevemisc) has some various helper functions I use in my research and teaching. [`stevetemplates`](https://github.com/svmiller/stevetemplates) is an R package for my R Markdown templates. I'll be shifting more time and energy from the "raw" template directory to this R package going forward. [`stevedata`](https://github.com/svmiller/stevedata), which is in development, will host all my toy data sets going forward. I also have an R package for my graduate-level methods course ([`post8000r`](https://github.com/svmiller/post8000r)), but I'll be gradually moving the contents of that (all data) into `stevedata`. Finally, I have an R package ([`dragracer`](https://github.com/svmiller/dragracer)) of data pertaining to the hit American TV show RuPaul's Drag Race. -->
 
